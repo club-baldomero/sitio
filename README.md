@@ -7,7 +7,6 @@ Sitio construído por integrantes del club para compartir los proyectos realizad
 * **Horario:** Sábados de 10 a 15
 
 Pasos para correr el sitio:
-* node.js
-* npm
+* Instalar node.js y npm - [ver guía de instalación](https://nodejs.org/en/download/)
 * instalar los modulos de npm: `$ npm install`
 * levantar la aplicación: `$ node app.js`
