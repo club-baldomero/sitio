@@ -1,0 +1,22 @@
+{
+  "name": "sitio",
+  "version": "1.0.0",
+  "description": "sitio del club de programación Baldomero",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/club-baldomero/sitio.git"
+  },
+  "author": "Nicolás Isnardi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/club-baldomero/sitio/issues"
+  },
+  "homepage": "https://github.com/club-baldomero/sitio#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
