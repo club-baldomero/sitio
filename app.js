@@ -5,5 +5,5 @@ var express = require('express'),
 app.use(express.static('public'));
 
 app.listen(3000, function() {
-    console.log('Sitio levantado');
+    console.log('Sitio levantado en localhost:3000');
 });
