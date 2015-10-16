@@ -8,5 +8,5 @@ Sitio construído por integrantes del club para compartir los proyectos realizad
 
 Pasos para correr el sitio:
 * Instalar node.js y npm - [ver guía de instalación](https://nodejs.org/en/download/)
-* instalar los modulos de npm: '$ npm install'
-* levantar la aplicación: '$ node app.js'
+* instalar los modulos de npm: ´$ npm install´
+* levantar la aplicación: ´$ node app.js´
