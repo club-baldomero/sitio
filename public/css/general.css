@@ -2,4 +2,11 @@
   max-width: 960px;
   margin: 0 auto; }
 
+header {
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#ffd300), to(#ffbc00));
+  background-color: #ffd300; }
+  header #brand {
+    display: inline-block;
+    padding: 10px; }
+
 /*# sourceMappingURL=general.css.map */
