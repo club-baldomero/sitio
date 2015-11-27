@@ -6,7 +6,11 @@ Sitio construído por integrantes del club para compartir los proyectos realizad
 * **Ubicación:** Biblioteca Baldomero Fernandez Moreno, [Concepción Arenale 4206](https://www.google.com.ar/maps/place/Concepci%C3%B3n+Arenal+4206,+C1427EKR+CABA/@-34.5912991,-58.4503509,17z/data=!3m1!4b1!4m2!3m1!1s0x95bcb5f0baccc6fd:0x71847f5d14a1291?hl=es)
 * **Horario:** Sábados de 10 a 15
 
-Pasos para correr el sitio:
-* Instalar node.js y npm - [ver guía de instalación](https://nodejs.org/en/download/)
-* instalar los modulos de npm: `$ npm install`
-* levantar la aplicación: `$ node app.js`
+# Iniciar sitio:
+* Instalar node.js y npm: Linux: `$ sudo apt-get install node`, Windows/Mac OS X: [ver guía de instalación](https://nodejs.org/en/download/).
+* Localizarse en la carpeta del proyecto: `$ cd /carpeta/del/proyecto/`.
+* Instalar Ruby: Linux: `$ sudo apt-get install ruby`, Windows: [Instalar Ruby con Ruby installer](http://www.rubyinstaller.org), Mac OS X: Felicidades, ya viene con Ruby ;)
+* Instalar Sass: Linux: `$ sudo gem install sass`, Windows/Mac OS X: `$ gem install sass`.
+* Instalar grunt con npm: `$ sudo npm install -g grunt-cli`.
+* Instalar los modulos de npm: `$ sudo npm install`.
+* Levantar la aplicación: `$ grunt`.
