@@ -7,7 +7,8 @@ Sitio construído por integrantes del club para compartir los proyectos realizad
 * **Horario:** Sábados de 10 a 15
 
 # Iniciar sitio:
-* Instalar node.js y npm: Linux: `$ sudo apt-get install node`, Windows/Mac OS X: [ver guía de instalación](https://nodejs.org/en/download/).
+* Instalar node.js y npm: Linux (para Ubuntu mas abajo): `$ sudo apt-get install node`, Windows/Mac OS X: [ver guía de instalación](https://nodejs.org/en/download/).
+* Instalar node.js y npm SOLO UBUNTU: Correr UbuntuNodeJSInstall.sh
 * Localizarse en la carpeta del proyecto: `$ cd /carpeta/del/proyecto/`.
 * Instalar Ruby: Linux: `$ sudo apt-get install ruby`, Windows: [Instalar Ruby con Ruby installer](http://www.rubyinstaller.org), Mac OS X: Felicidades, ya viene con Ruby ;)
 * Instalar Sass: Linux: `$ sudo gem install sass`, Windows/Mac OS X: `$ gem install sass`.
